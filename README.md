@@ -7,7 +7,14 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-soria-ferrer-529738225)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_pablosf)
 
+## 🛠 Skills
+🔧Código: Java, C#, JavaScript, VB.
+🗄️BBDD: TSQL
+🛜WEB: CSS, HTML, XML
+
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloSoriaFerrer11&theme=prussian&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ![Lenaguajes más Usados](https://github-readme-stats.vercel.app/api?username=PabloSoriaFerrer11&show_icons=true&theme=transparent)
+
+
