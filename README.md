@@ -8,9 +8,9 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_pablosf)
 
 ## 🛠 Skills
-  🔧Código: Java, C#, JavaScript, VB.
-  🗄️BBDD: TSQL
-  🛜WEB: CSS, HTML, XML
+  🔧**Código**: Java, C#, JavaScript, VB.
+  🗄️**BBDD**: TSQL
+  🛜**WEB**: CSS, HTML, XML
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloSoriaFerrer11&theme=prussian&hide_border=true&locale=es)](https://git.io/streak-stats)
