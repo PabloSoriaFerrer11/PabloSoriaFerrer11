@@ -15,6 +15,4 @@
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloSoriaFerrer11&theme=prussian&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![Lenaguajes más Usados](https://github-readme-stats.vercel.app/api?username=PabloSoriaFerrer11&show_icons=true&theme=transparent)
-
 
